@@ -1,0 +1,68 @@
+.menu{
+    
+        list-style: none;
+        font-family: cursive;
+        float: right;
+        top: 10px;
+        right: 30px;
+        cursor: pointer;
+        color: black;
+       
+    
+}
+
+.list{
+    padding-left: 5px;
+    padding-right:35px;
+    font-size: 20px;
+    display: inline;
+}
+
+#logo{
+    top: 10px;
+    left: 30px;
+    font-size: 20px;
+    height: 100px;
+    width: 100px;
+}
+#sect1{
+ background-color:aqua;
+text-decoration: white;
+
+}
+#h1{
+    font-size: 100;
+    text-align: center;
+}
+
+body{
+    
+   background-color: aquamarine;
+}
+
+#h2{
+    text-align: center;
+    font-size: 100px;
+}
+
+#sect3{
+    
+        background-color:aqua;
+       text-decoration: white;
+            
+}
+
+#kitty{
+    height: 215px;
+    width: 255px;
+}
+.row{
+    float: left;
+    padding: 10px;
+    
+}
+
+#neiil{
+    height: 255px;
+    width: 255px;
+}
